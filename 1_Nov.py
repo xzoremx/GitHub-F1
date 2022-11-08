@@ -1,4 +1,4 @@
-#Aprendiendo! - Cambio 9:49 am 
+#Aprendiendo! - Cambio 9:49 am - Fuck se realizo el cambio??
 
 import numpy as np
 
