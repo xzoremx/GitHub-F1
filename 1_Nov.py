@@ -1,5 +1,8 @@
 #Aprendiendo! - Cambio 8:41 am
 
+#2Version -  9:52 am
+
+
 import numpy as np
 
 from PIL import Image
