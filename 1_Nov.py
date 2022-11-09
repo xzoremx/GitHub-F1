@@ -66,6 +66,16 @@ a = np.array([[1,2], [3,4], [5,6]])
 print(np.array([a[0,0], a[1,1], a[2,1]]))
 
 
+#Cursos Coursera y DataCamp
+ #Excel
+    #SQL
+        #Pyhton
+            #Java
+                #C++
+                    #Github
+                        #Office
+
+
 
 
 
